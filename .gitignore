@@ -1,0 +1,6 @@
+*.dat
+*.mp4
+__pycache__
+*Untitled*
+*~
+.DS_Store
